@@ -1,0 +1,50 @@
+php 7.3.2.1
+mysql 3306 5.7.31
+
+agostino@vergati.it agostino
+prisco.santonicola@gmail.com 12345678
+
+mysql : root Vergati21@
+localhost
+
+app/Http/Controllers/PrintController.php cambio ip stampanti
+
+
+C:\wamp64\www>cd www.caffetteriavergati.cloud
+
+C:\wamp64\www\www.caffetteriavergati.cloud>composer require mike42/escpos-php
+Using version ^3.0 for mike42/escpos-php
+./composer.json has been updated
+^CTerminare il processo batch (S/N)? n
+
+C:\wamp64\www\www.caffetteriavergati.cloud>composer require mike42/escpos-php
+Using version ^3.0 for mike42/escpos-php
+./composer.json has been updated
+Running composer update mike42/escpos-php
+Loading composer repositories with package information
+Updating dependencies
+Lock file operations: 2 installs, 0 updates, 0 removals
+  - Locking mike42/escpos-php (v3.0)
+  - Locking mike42/gfx-php (v0.6)
+Writing lock file
+Installing dependencies from lock file (including require-dev)
+Package operations: 2 installs, 0 updates, 0 removals
+  - Installing mike42/gfx-php (v0.6): Extracting archive
+  - Installing mike42/escpos-php (v3.0): Extracting archive
+1 package suggestions were added by new dependencies, use `composer suggest` to see details.
+Package phpunit/php-token-stream is abandoned, you should avoid using it. No replacement was suggested.
+Generating optimized autoload files
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: barryvdh/laravel-dompdf
+Discovered Package: barryvdh/laravel-translation-manager
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: intervention/image
+Discovered Package: laravel/tinker
+Discovered Package: laravel/ui
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Discovered Package: tanmuhittin/laravel-google-translate
+Package manifest generated successfully.

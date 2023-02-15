@@ -1,0 +1,112 @@
+.heading-size_image {
+
+	margin: 6px 0 !important;
+
+	font-size: 14px;
+
+	/* margin-bottom: 10px !important; */
+text-align:center !important;
+	height: 45px !important;
+
+}
+
+.heading-size {
+
+	margin: -4px 0 28px 0 !important;
+
+	font-size: 23px;
+
+	font-weight: bold;    /* margin-bottom: 10px !important; */
+
+	height: 45px !important;
+
+}
+
+.tag-margin {
+
+	margin-right: 2px !important;
+
+}
+
+.tag-btn {
+
+	padding: 5px 10px !important;
+
+}
+
+.white-bg {
+
+	padding: 5px 0px 5px 0px !important;
+
+}
+
+.all {
+
+	margin: 0px !important;
+
+	padding: 5px !important;
+
+}
+
+#portfolio {
+
+	height: 500px;
+
+	overflow-y: auto;
+
+	margin: 0 -5px;
+
+}
+
+.cart-table-wrap {
+
+	height: 220px;
+
+	overflow-x: hidden;
+
+}
+
+#CartHTML td {
+
+	vertical-align: top;
+
+}
+
+
+
+.confirm-modal .modal-header {
+
+	padding: 15px;
+
+}
+
+.confirm-modal .modal-body {
+
+	background-color: transparent;
+
+}
+
+.payment-option-icon {
+
+	
+
+}
+
+
+
+@media screen and (max-width:992px) {
+
+	
+
+	.btn.IncreaseToCart, .btn.DecreaseToCart {
+
+		display: block;
+
+	}
+
+	
+
+}
+
+
+
